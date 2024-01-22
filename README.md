@@ -15,3 +15,6 @@ https://github.com/bluenviron/mediamtx
 
 Se utiliza YoloV8 para el análisis del video y la obtención de resultados.
 https://docs.ultralytics.com/es/
+
+El video demostrativo del concepto puede verse en:
+https://youtu.be/qeKU_y6KUyo
