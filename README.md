@@ -18,3 +18,6 @@ https://docs.ultralytics.com/es/
 
 El video demostrativo del concepto puede verse en:
 https://youtu.be/qeKU_y6KUyo
+
+Un punto importante es el hardware es por eso que la pruebas se la ejecutan sobre una PC "Gamer" y un dispositivo mucho más accesible lanzado por Nvidia llamado "Jetson Nano":
+https://www.nvidia.com/es-la/autonomous-machines/embedded-systems/jetson-nano/
